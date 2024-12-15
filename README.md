@@ -53,7 +53,7 @@ npm start                 # Start the React application
 For the backend:
 
 ```bash
-cd React-Login-Starter-Kit-With-Social-Auth-/backend
+cd ../backend
 npm install
 ```
 
