@@ -50,7 +50,7 @@ npm install
 For the backend:
 
 ```bash
-cd ../backend
+cd backend
 npm install
 ```
 
