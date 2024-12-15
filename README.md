@@ -42,15 +42,18 @@ cd React-Login-Starter-Kit-With-Social-Auth-
 
 For the frontend:
 
-```bash
+```
 cd new-frontend
-npm install
+npm init -y               # Initialize the project if package.json is missing
+npm install react-scripts # Install react-scripts if not already installed
+npm install               # Install other dependencies (if any)
+npm start                 # Start the React application
 ```
 
 For the backend:
 
 ```bash
-cd backend
+cd React-Login-Starter-Kit-With-Social-Auth-/backend
 npm install
 ```
 
